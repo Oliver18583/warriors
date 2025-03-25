@@ -9,26 +9,26 @@
         <!-- Episodios del podcast -->
         <item>
             <title>Análisis de la temporada</title>
-            <link>https://oliver18583.github.io/warriors/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/audios/analisis.mp3</link>
             <description>Un repaso detallado del rendimiento del equipo en la temporada actual.</description>
             <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/analisis.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
+            <guid>Análisis de la temporada</guid>
             <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Entrevista con un exjugador</title>
-            <link>https://oliver18583.github.io/warriors/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/audios/entrevista.mp3</link>
             <description>Conversamos con una leyenda del equipo sobre su paso por los Warriors.</description>
             <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/entrevista.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
+            <guid>Entrevista con un exjugador</guid>
             <pubDate>Tue, 26 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Rivalidades históricas</title>
-            <link>https://oliver18583.github.io/warriors/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/audios/rivalidad.mp3</link>
             <description>Exploramos las rivalidades más intensas en la historia de los Warriors.</description>
             <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/rivalidad.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
+            <guid>Rivalidades históricas</guid>
             <pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
         </item>
     </channel>
