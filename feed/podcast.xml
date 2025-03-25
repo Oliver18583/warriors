@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Podcast de los Golden State Warriors</title>
+        <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+        <description>Explora los episodios más recientes del podcast sobre los Golden State Warriors.</description>
+        <language>es</language>
+
+        <!-- Episodios del podcast -->
+        <item>
+            <title>Análisis de la temporada</title>
+            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <description>Un repaso detallado del rendimiento del equipo en la temporada actual.</description>
+            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/analisis.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Entrevista con un exjugador</title>
+            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <description>Conversamos con una leyenda del equipo sobre su paso por los Warriors.</description>
+            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/entrevista.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <pubDate>Tue, 26 Mar 2024 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Rivalidades históricas</title>
+            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <description>Exploramos las rivalidades más intensas en la historia de los Warriors.</description>
+            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/rivalidad.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Suscripciones RSS - Golden State Warriors</title>
+    </head>
+    <body>
+        <outline text="Golden State Warriors" title="Golden State Warriors">
+            <outline text="Blog - Warriors" type="rss" xmlUrl="https://oliverio.neocities.org/proyecto/rss.xml" htmlUrl="https://oliverio.neocities.org/proyecto/blog/"/>
+            <outline text="Podcast - Warriors" type="rss" xmlUrl="https://oliverio.neocities.org/proyecto/podcast.xml" htmlUrl="https://oliverio.neocities.org/proyecto/podcast/"/>
+        </outline>
+    </body>
+</opml>
