@@ -2,56 +2,56 @@
 <rss version="2.0">
     <channel>
         <title>Golden State Warriors - Noticias y Podcast</title>
-        <link>https://oliverio.neocities.org/proyecto/</link>
+        <link>https://oliver18583.github.io/warriors/</link>
         <description>Últimas noticias y episodios del podcast de los Golden State Warriors</description>
         <language>es</language>
 
         <!-- Artículos del blog -->
         <item>
             <title>Historia de los Warriors</title>
-            <link>https://oliverio.neocities.org/proyecto/blog/posts/post1</link>
+            <link>https://oliver18583.github.io/warriors/blog/posts/post1</link>
             <description>Los Golden State Warriors fueron fundados en 1946 y han logrado múltiples campeonatos a lo largo de su historia.</description>
-            <guid>https://oliverio.neocities.org/proyecto/blog/posts/post1</guid>
+            <guid>https://oliver18583.github.io/warriors/blog/posts/post1</guid>
             <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Jugadores legendarios</title>
-            <link>https://oliverio.neocities.org/proyecto/blog/posts/post2</link>
+            <link>https://oliver18583.github.io/warriors/blog/posts/post2</link>
             <description>Algunos de los jugadores más icónicos de los Warriors incluyen a Wilt Chamberlain, Stephen Curry y Klay Thompson.</description>
-            <guid>https://oliverio.neocities.org/proyecto/blog/posts/post2</guid>
+            <guid>https://oliver18583.github.io/warriors/blog/posts/post2</guid>
             <pubDate>Wed, 20 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Títulos ganados</title>
-            <link>https://oliverio.neocities.org/proyecto/blog/posts/post3</link>
+            <link>https://oliver18583.github.io/warriors/blog/posts/post3</link>
             <description>Los Warriors han ganado múltiples campeonatos de la NBA, destacándose en la era moderna con títulos en 2015, 2017, 2018 y 2022.</description>
-            <guid>https://oliverio.neocities.org/proyecto/blog/posts/post3</guid>
+            <guid>https://oliver18583.github.io/warriors/blog/posts/post3</guid>
             <pubDate>Fri, 22 Mar 2024 10:00:00 GMT</pubDate>
         </item>
 
         <!-- Episodios del podcast -->
         <item>
             <title>Análisis de la temporada</title>
-            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/</link>
             <description>Un repaso detallado del rendimiento del equipo en la temporada actual.</description>
-            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/analisis.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/analisis.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
             <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Entrevista con un exjugador</title>
-            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/</link>
             <description>Conversamos con una leyenda del equipo sobre su paso por los Warriors.</description>
-            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/entrevista.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/entrevista.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
             <pubDate>Tue, 26 Mar 2024 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Rivalidades históricas</title>
-            <link>https://oliverio.neocities.org/proyecto/podcast/</link>
+            <link>https://oliver18583.github.io/warriors/podcast/</link>
             <description>Exploramos las rivalidades más intensas en la historia de los Warriors.</description>
-            <enclosure url="https://oliverio.neocities.org/proyecto/podcast/audio/rivalidad.mp3" type="audio/mpeg" length="12345678"/>
-            <guid>https://oliverio.neocities.org/proyecto/podcast/</guid>
+            <enclosure url="https://oliver18583.github.io/warriors/podcast/audio/rivalidad.mp3" type="audio/mpeg" length="12345678"/>
+            <guid>https://oliver18583.github.io/warriors/podcast/</guid>
             <pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
         </item>
     </channel>
