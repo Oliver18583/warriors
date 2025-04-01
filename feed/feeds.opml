@@ -5,8 +5,8 @@
     </head>
     <body>
         <outline text="Golden State Warriors" title="Golden State Warriors">
-            <outline text="Blog - Warriors" type="rss" xmlUrl="https://oliver18583.github.io/warriors/rss.xml" htmlUrl="https://oliver18583.github.io/warriors/blog/"/>
-            <outline text="Podcast - Warriors" type="rss" xmlUrl="https://oliver18583.github.io/warriors/podcast.xml" htmlUrl="https://oliver18583.github.io/warriors/podcast/"/>
+            <outline text="Blog - Warriors" type="rss" xmlUrl="https://oliver18583.github.io/warriors/feed/rss.xml" htmlUrl="https://oliver18583.github.io/warriors/blog/"/>
+            <outline text="Podcast - Warriors" type="rss" xmlUrl="https:https://oliver18583.github.io/warriors/feed/podcast.xml" htmlUrl="https://oliver18583.github.io/warriors/podcast/"/>
         </outline>
     </body>
 </opml>
